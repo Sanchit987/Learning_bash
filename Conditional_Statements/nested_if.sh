@@ -1,5 +1,5 @@
 #!bin/bash
-#Implementing If Statement
+#Implementing nested If Statement
 #Author : Sanchit Khera
 
 echo "This Checks whether number1 is greater and print ok if so. "
